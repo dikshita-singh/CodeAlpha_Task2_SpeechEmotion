@@ -1,0 +1,9 @@
+data/
+models/
+__pycache__/
+*.csv
+*.wav
+*.h5
+*.keras
+*.joblib
+*.pkl
